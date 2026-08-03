@@ -13,7 +13,7 @@ I build clean, efficient solutions across embedded systems, full-stack web apps,
 Check out my profiles: [LinkedIn](https://www.linkedin.com/in/sanjai-murali) | [GitHub](https://github.com/sanjaimurali) | [Email](mailto:sanjaimurali3862@gmail.com)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,vscode,leetcode,intelij,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,vscode,git,github&theme=dark" />
 </p>
 
 <p>
