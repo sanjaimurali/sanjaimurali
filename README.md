@@ -122,10 +122,9 @@ public class Sanjai {
 ## 📚 Currently Learning
 
 ```
-🧱 DSA                →  Arrays, Linked Lists, Trees, Graphs, Dynamic Programming
-🎯 System Design      →  Basics of scalable architecture
-🔗 REST APIs          →  Building and consuming APIs
-🚀 Deployment         →  Git Actions, hosting basics
+🧱 DSA                →  Arrays , Strings , Collections , Dynamic Programming
+🚀 Deployment         →  Git Actions
+📊 Database           →  SQL 
 ```
 
 ---
