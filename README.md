@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SANJAI&text=MURALI%20&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Undergrad%20%7C%20Java%20Developer%20%7C%20Embedded%20Systems%20and%20IoT&descAlignY=62&descSize=16" alt="Sanjai Murali Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SANJAI MURALI%20&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Undergrad%20%7C%20Java%20Developer%20%7C%20Embedded%20Systems%20and%20IoT&descAlignY=62&descSize=16" alt="Sanjai Murali Banner" width="100%" />
 </p>
 
 <p align="center">
